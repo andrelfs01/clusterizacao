@@ -36,7 +36,7 @@ df = pd.read_csv('../iris.data', names=columns)
 
 model_params = {                
                 "ants": UserSettableParameter('slider', 'ants', 20, 1, 40),
-                "grid_size": 25,
+                "grid_size": 50,
                 "data": df
                 }
 

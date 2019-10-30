@@ -16,9 +16,9 @@ class AntAgent(Agent):
         self.load = None
         self.pos = pos
         self.s = 3
-        self.k1 = 0.51
-        self.k2 = 0.1
-        self.alpha = 4.5
+        self.k1 = 0.03
+        self.k2 = 0.01
+        self.alpha = 1.5
         self.f = 0
         #  α = 1.05, θ = 0.6, k1 = 0.20, and k2 = 0.05. 
         #  k1 = 0.1, k2 = 0.15, α = 0.5, s2 = 9,
@@ -96,12 +96,12 @@ class AntAgent(Agent):
         return (self.f/ (self.k2 + self.f))**2
 
     def compute_pp(self):
-        #return (self.k1/ (self.k1 + self.f))**2
+        return (self.k1/ (self.k1 + self.f))**2
         
-        if self.f < self.k1:
-            return 2 * self.f
-        else: 
-            return 1
+        # if self.f < self.k1:
+        #     return 2 * self.f
+        # else: 
+        #     return 1
         
 
 class DataAgent(Agent):
@@ -135,8 +135,8 @@ class DataAgent(Agent):
         
         print("*************************************8")
         for d in lista:
-            print(d)
-            #print ("distancia: {}".format(self.euclidean(d)))
+            print(soma)
+            print ("{} : distancia: {}".format(d, self.euclidean(d)))
             soma = soma + (1 - ((self.euclidean(d))/alpha))
             #print ("soma: {}".format(soma))
         print("*************************************8")
