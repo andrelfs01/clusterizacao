@@ -5,8 +5,6 @@ from random import uniform
 import math  
 import random
 
-
-#https://pdfs.semanticscholar.org/78c7/0ac407a8941f1ef799a8df0c4118e7effd8e.pdf
 class AntAgent(Agent):
     unique_id = 'ant_'
     
@@ -20,18 +18,15 @@ class AntAgent(Agent):
         self.k2 = 0.01
         self.alpha = 1.5
         self.f = 0
-        #  α = 1.05, θ = 0.6, k1 = 0.20, and k2 = 0.05. 
-        #  k1 = 0.1, k2 = 0.15, α = 0.5, s2 = 9,
 
     def step(self):
         # compute f(xi) - mudeide lugar
-        
         #  if unloaded ant AND cell occupiedby item xi:
         if (self.load is None and self.tem_dado(self.pos)):
             self.f = self.compute_fxi()
             pick_probability = self.compute_pp()      
             #pick up a item xi with probability pp(xi)
-            print ("f: {} - pick: {}".format(self.f, pick_probability))
+            #print ("f: {} - pick: {}".format(self.f, pick_probability))
             if (uniform(0, 1) <=  pick_probability):
                 self.load = self.pega_dado(self.pos)
         
@@ -40,7 +35,7 @@ class AntAgent(Agent):
             self.f = self.compute_fxi()
             drop_probability = self.compute_pd()      
             #pick up a item xi with probability pp(xi)
-            print ("f: {} - drop: {}".format(self.f, drop_probability))
+            #print ("f: {} - drop: {}".format(self.f, drop_probability))
             if (uniform(0, 1) <=  drop_probability):
                 self.load = None
         self.move()
@@ -97,12 +92,6 @@ class AntAgent(Agent):
 
     def compute_pp(self):
         return (self.k1/ (self.k1 + self.f))**2
-        
-        # if self.f < self.k1:
-        #     return 2 * self.f
-        # else: 
-        #     return 1
-        
 
 class DataAgent(Agent):
     def __init__(self, unique_id, pos, model):
@@ -123,25 +112,14 @@ class DataAgent(Agent):
         # para cada dado na vizinhanca SxS
         vizinhos = self.model.grid.get_neighborhood(self.pos, True, False, 1)
         lista = list()
-        print("Dado: ")
-        print (self)
-        print("Vizinhos: ")
-        #print(vizinhos)
         for v in vizinhos:
             ocupantes = self.model.grid.get_cell_list_contents(v)
             for o in ocupantes:
                 if (isinstance(o, DataAgent) and o != self) :
                     lista.append(o)
-        
-        print("*************************************8")
         for d in lista:
-            print(soma)
-            print ("{} : distancia: {}".format(d, self.euclidean(d)))
             soma = soma + (1 - ((self.euclidean(d))/alpha))
-            #print ("soma: {}".format(soma))
-        print("*************************************8")
         f = soma / (s**2) 
-        #print ("sum {}  -- s: {}  -- f {}".format(soma, s, f))
         return f if f > 0 else 0
 
     #CALCULO DE DISTANCIA QUANDRADA ENTRE DOIS PADROES

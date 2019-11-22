@@ -4,7 +4,8 @@ from mesa.time import RandomActivation
 from mesa.datacollection import DataCollector
 from agents import AntAgent, DataAgent
 import pandas as pd
-
+import numpy as np
+import matplotlib.pyplot as plt
 
 class Modelo(Model):
     """
@@ -19,6 +20,7 @@ class Modelo(Model):
         #self.running = True
         self.ants = ants
         self.m = grid_size
+        self.v = False
         self.grid = MultiGrid(int(self.m), int(self.m), True)
         self.schedule = RandomActivation(self)
         self.verbose = False  # Print-monitoring
@@ -52,7 +54,12 @@ class Modelo(Model):
 
     def step(self):
         #print(self.data)
-        self.schedule.step()
+        if (self.schedule.steps == 5000  and not self.v):
+            self.validar_clusters()
+            self.v = True
+        else:
+            self.schedule.step()
+        
         #self.datacollector.collect(self)
 
     def run_model(self, step_count=2000):
@@ -66,5 +73,42 @@ class Modelo(Model):
         for i in range(step_count):
             self.step()
 
+    def validar_clusters(self):
+        print(self.grid.grid)
+        #grid é um multgrid
+        x = list()
+        y = list()
+        classes= list()
+        
+        for l in self.grid.grid:
+            for c in l:
+                for agent in c:
+                    print ("{} - {}".format(agent.unique_id, agent.pos))
+                    if "data_" in agent.unique_id:
+                        #coloca o dado no data frame
+                        x_pos, y_pos = agent.pos
+                        if (self.data.iloc[agent.index_df]['class'] == 'Iris-virginica'):
+                            classe = 0
+                        elif (self.data.iloc[agent.index_df]['class'] == 'Iris-setosa'):
+                            classe = 1
+                        else :
+                            classe = 2 
+                        x.append(x_pos)
+                        y.append(y_pos)
+                        classes.append(classe)
+        print(x)
+        print(y)
+        Cluster = np.array(classes)
+
+        fig = plt.figure()
+        ax = fig.add_subplot(111)
+        scatter = ax.scatter(x,y,c=Cluster,s=50)
+        # for i,j in centers:
+        #     ax.scatter(i,j,s=50,c='red',marker='+')
+        ax.set_xlabel('x')
+        ax.set_ylabel('y')
+        plt.colorbar(scatter)
+        plt.savefig('clusters.png')
+        
 
 
