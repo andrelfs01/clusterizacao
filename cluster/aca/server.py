@@ -2,9 +2,8 @@ from mesa.visualization.ModularVisualization import ModularServer
 from mesa.visualization.modules import CanvasGrid, ChartModule, TextElement
 from mesa.visualization.UserParam import UserSettableParameter
 import pandas as pd
-from agents import AntAgent, DataAgent
+from agents import AntAgent, DataAgent, BordaAgent
 from model import Modelo as modelo
-
 
 def aca_portrayal(agent):
     if agent is None:
@@ -17,6 +16,7 @@ def aca_portrayal(agent):
         portrayal["scale"] = 0.9
         portrayal["Layer"] = 2
         portrayal["text_color"] = "White"
+        
 
     elif type(agent) is DataAgent:
         portrayal["Shape"] = "resources/data.png"
@@ -24,6 +24,10 @@ def aca_portrayal(agent):
         portrayal["Layer"] = 1
         portrayal["text"] = agent.unique_id
         portrayal["text_color"] = "White"
+
+    elif type(agent) is BordaAgent:
+        portrayal["Layer"] = 0
+        portrayal["Shape"] =  "resources/black.png"
 
     return portrayal
 

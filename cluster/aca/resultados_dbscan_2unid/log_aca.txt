@@ -1,0 +1,1649 @@
+Step: 500
+Cluster 0:
+Dados no cluster:
+Iris-versicolor    2
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 2:
+Dados no cluster:
+Iris-setosa    5
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 1:
+Dados no cluster:
+Iris-virginica    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 3:
+Dados no cluster:
+Iris-virginica     2
+Iris-versicolor    2
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 4:
+Dados no cluster:
+Iris-setosa    5
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 5:
+Dados no cluster:
+Iris-versicolor    4
+Iris-setosa        3
+Iris-virginica     2
+Name: class, dtype: int64
+Gini index: 0.6419753086419753
+
+Cluster 6:
+Dados no cluster:
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 7:
+Dados no cluster:
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 8:
+Dados no cluster:
+Iris-virginica     4
+Iris-setosa        1
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 9:
+Dados no cluster:
+Iris-versicolor    3
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.375
+
+Cluster 10:
+Dados no cluster:
+Iris-versicolor    4
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.31999999999999984
+
+Cluster 11:
+Dados no cluster:
+Iris-setosa        4
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.31999999999999984
+
+Cluster 12:
+Dados no cluster:
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 13:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 14:
+Dados no cluster:
+Iris-setosa    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 15:
+Dados no cluster:
+Iris-setosa       3
+Iris-virginica    1
+Name: class, dtype: int64
+Gini index: 0.375
+
+Cluster 16:
+Dados no cluster:
+Iris-virginica     2
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 17:
+Dados no cluster:
+Iris-setosa        2
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 18:
+Dados no cluster:
+Iris-virginica     2
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 19:
+Dados no cluster:
+Iris-virginica     3
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.375
+
+Cluster 20:
+Dados no cluster:
+Iris-versicolor    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 21:
+Dados no cluster:
+Iris-setosa    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Step: 1000
+Cluster 0:
+Dados no cluster:
+Iris-virginica     2
+Iris-versicolor    2
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 1:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 3:
+Dados no cluster:
+Iris-setosa    5
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 2:
+Dados no cluster:
+Iris-virginica    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 4:
+Dados no cluster:
+Iris-virginica     3
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 5:
+Dados no cluster:
+Iris-versicolor    2
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 6:
+Dados no cluster:
+Iris-setosa    6
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 7:
+Dados no cluster:
+Iris-versicolor    5
+Iris-setosa        1
+Name: class, dtype: int64
+Gini index: 0.2777777777777777
+
+Cluster 8:
+Dados no cluster:
+Iris-versicolor    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 9:
+Dados no cluster:
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 10:
+Dados no cluster:
+Iris-virginica     3
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.375
+
+Cluster 11:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 12:
+Dados no cluster:
+Iris-versicolor    3
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.375
+
+Cluster 13:
+Dados no cluster:
+Iris-versicolor    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 14:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 15:
+Dados no cluster:
+Iris-setosa    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 16:
+Dados no cluster:
+Iris-virginica    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 17:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 18:
+Dados no cluster:
+Iris-setosa    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 19:
+Dados no cluster:
+Iris-setosa    5
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 20:
+Dados no cluster:
+Iris-virginica     2
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 21:
+Dados no cluster:
+Iris-setosa        2
+Iris-versicolor    2
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 22:
+Dados no cluster:
+Iris-virginica     3
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.375
+
+Cluster 23:
+Dados no cluster:
+Iris-virginica     4
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.31999999999999984
+
+Cluster 24:
+Dados no cluster:
+Iris-versicolor    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 25:
+Dados no cluster:
+Iris-setosa    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Step: 1500
+Cluster 0:
+Dados no cluster:
+Iris-virginica     2
+Iris-versicolor    2
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 2:
+Dados no cluster:
+Iris-setosa    5
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 1:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 3:
+Dados no cluster:
+Iris-versicolor    4
+Iris-virginica     3
+Name: class, dtype: int64
+Gini index: 0.48979591836734704
+
+Cluster 4:
+Dados no cluster:
+Iris-versicolor    2
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 5:
+Dados no cluster:
+Iris-setosa    6
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 6:
+Dados no cluster:
+Iris-versicolor    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 7:
+Dados no cluster:
+Iris-versicolor    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 8:
+Dados no cluster:
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 9:
+Dados no cluster:
+Iris-virginica     3
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.375
+
+Cluster 10:
+Dados no cluster:
+Iris-virginica    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 11:
+Dados no cluster:
+Iris-versicolor    3
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.375
+
+Cluster 12:
+Dados no cluster:
+Iris-versicolor    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 14:
+Dados no cluster:
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 13:
+Dados no cluster:
+Iris-virginica     3
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.375
+
+Cluster 15:
+Dados no cluster:
+Iris-setosa    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 16:
+Dados no cluster:
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 17:
+Dados no cluster:
+Iris-virginica    5
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 18:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 19:
+Dados no cluster:
+Iris-setosa    5
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 20:
+Dados no cluster:
+Iris-setosa    6
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 21:
+Dados no cluster:
+Iris-setosa        2
+Iris-versicolor    2
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 22:
+Dados no cluster:
+Iris-virginica     3
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 23:
+Dados no cluster:
+Iris-virginica     5
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.2777777777777777
+
+Cluster 24:
+Dados no cluster:
+Iris-versicolor    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 25:
+Dados no cluster:
+Iris-setosa    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 26:
+Dados no cluster:
+Iris-setosa       4
+Iris-virginica    1
+Name: class, dtype: int64
+Gini index: 0.31999999999999984
+
+Step: 2000
+Cluster 0:
+Dados no cluster:
+Iris-virginica     2
+Iris-versicolor    2
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 2:
+Dados no cluster:
+Iris-setosa    5
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 1:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 3:
+Dados no cluster:
+Iris-versicolor    4
+Iris-virginica     3
+Name: class, dtype: int64
+Gini index: 0.48979591836734704
+
+Cluster 4:
+Dados no cluster:
+Iris-versicolor    2
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 5:
+Dados no cluster:
+Iris-setosa    6
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 6:
+Dados no cluster:
+Iris-versicolor    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 7:
+Dados no cluster:
+Iris-versicolor    5
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 8:
+Dados no cluster:
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 9:
+Dados no cluster:
+Iris-virginica    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 10:
+Dados no cluster:
+Iris-virginica     3
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.375
+
+Cluster 11:
+Dados no cluster:
+Iris-versicolor    3
+Iris-virginica     2
+Name: class, dtype: int64
+Gini index: 0.48
+
+Cluster 12:
+Dados no cluster:
+Iris-versicolor    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 14:
+Dados no cluster:
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 13:
+Dados no cluster:
+Iris-virginica     2
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 15:
+Dados no cluster:
+Iris-setosa    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 16:
+Dados no cluster:
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 17:
+Dados no cluster:
+Iris-virginica    6
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 18:
+Dados no cluster:
+Iris-setosa        3
+Iris-virginica     1
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.5599999999999999
+
+Cluster 19:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 20:
+Dados no cluster:
+Iris-setosa    6
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 21:
+Dados no cluster:
+Iris-setosa    7
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 22:
+Dados no cluster:
+Iris-virginica     2
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 23:
+Dados no cluster:
+Iris-versicolor    3
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.375
+
+Cluster 24:
+Dados no cluster:
+Iris-virginica     3
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 25:
+Dados no cluster:
+Iris-virginica     5
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.2777777777777777
+
+Cluster 26:
+Dados no cluster:
+Iris-setosa    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 27:
+Dados no cluster:
+Iris-setosa    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Step: 2500
+Cluster 0:
+Dados no cluster:
+Iris-virginica     2
+Iris-versicolor    2
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 1:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 2:
+Dados no cluster:
+Iris-setosa    5
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 3:
+Dados no cluster:
+Iris-versicolor    4
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.31999999999999984
+
+Cluster 4:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 5:
+Dados no cluster:
+Iris-versicolor    2
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 6:
+Dados no cluster:
+Iris-setosa    6
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 7:
+Dados no cluster:
+Iris-versicolor    5
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 8:
+Dados no cluster:
+Iris-versicolor    6
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 9:
+Dados no cluster:
+Iris-virginica    3
+Iris-setosa       1
+Name: class, dtype: int64
+Gini index: 0.375
+
+Cluster 10:
+Dados no cluster:
+Iris-virginica     3
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.375
+
+Cluster 11:
+Dados no cluster:
+Iris-versicolor    4
+Iris-virginica     2
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 12:
+Dados no cluster:
+Iris-versicolor    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 13:
+Dados no cluster:
+Iris-virginica     2
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 14:
+Dados no cluster:
+Iris-setosa    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 15:
+Dados no cluster:
+Iris-virginica     6
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.24489795918367352
+
+Cluster 16:
+Dados no cluster:
+Iris-setosa        3
+Iris-virginica     1
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.5599999999999999
+
+Cluster 17:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 18:
+Dados no cluster:
+Iris-setosa    6
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 19:
+Dados no cluster:
+Iris-setosa    6
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 20:
+Dados no cluster:
+Iris-virginica     2
+Iris-versicolor    2
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 21:
+Dados no cluster:
+Iris-virginica     5
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.2777777777777777
+
+Cluster 22:
+Dados no cluster:
+Iris-versicolor    4
+Iris-virginica     3
+Name: class, dtype: int64
+Gini index: 0.48979591836734704
+
+Cluster 23:
+Dados no cluster:
+Iris-versicolor    2
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 24:
+Dados no cluster:
+Iris-setosa    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 25:
+Dados no cluster:
+Iris-setosa    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Step: 3000
+Cluster 0:
+Dados no cluster:
+Iris-virginica     2
+Iris-versicolor    2
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 1:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 2:
+Dados no cluster:
+Iris-setosa    5
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 3:
+Dados no cluster:
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 4:
+Dados no cluster:
+Iris-versicolor    2
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 5:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 6:
+Dados no cluster:
+Iris-versicolor    2
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 7:
+Dados no cluster:
+Iris-setosa    6
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 8:
+Dados no cluster:
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 9:
+Dados no cluster:
+Iris-versicolor    8
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 10:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 11:
+Dados no cluster:
+Iris-setosa        3
+Iris-virginica     3
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.6122448979591837
+
+Cluster 12:
+Dados no cluster:
+Iris-versicolor    4
+Iris-virginica     2
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 13:
+Dados no cluster:
+Iris-versicolor    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 14:
+Dados no cluster:
+Iris-virginica     2
+Iris-versicolor    2
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 15:
+Dados no cluster:
+Iris-setosa    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 16:
+Dados no cluster:
+Iris-virginica     6
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.24489795918367352
+
+Cluster 17:
+Dados no cluster:
+Iris-setosa        3
+Iris-virginica     1
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.5599999999999999
+
+Cluster 18:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 19:
+Dados no cluster:
+Iris-setosa    6
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 20:
+Dados no cluster:
+Iris-setosa    6
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 21:
+Dados no cluster:
+Iris-virginica     2
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 22:
+Dados no cluster:
+Iris-versicolor    4
+Iris-virginica     3
+Name: class, dtype: int64
+Gini index: 0.48979591836734704
+
+Cluster 23:
+Dados no cluster:
+Iris-virginica     5
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.2777777777777777
+
+Cluster 24:
+Dados no cluster:
+Iris-versicolor    2
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 25:
+Dados no cluster:
+Iris-setosa    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 26:
+Dados no cluster:
+Iris-setosa    5
+Name: class, dtype: int64
+Gini index: 0.0
+
+Step: 3500
+Cluster 0:
+Dados no cluster:
+Iris-versicolor    2
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 1:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 2:
+Dados no cluster:
+Iris-setosa    5
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 3:
+Dados no cluster:
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 4:
+Dados no cluster:
+Iris-versicolor    2
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 5:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 6:
+Dados no cluster:
+Iris-versicolor    2
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 7:
+Dados no cluster:
+Iris-setosa    6
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 8:
+Dados no cluster:
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 9:
+Dados no cluster:
+Iris-versicolor    8
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 10:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 11:
+Dados no cluster:
+Iris-setosa        3
+Iris-virginica     3
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.6122448979591837
+
+Cluster 12:
+Dados no cluster:
+Iris-versicolor    4
+Iris-virginica     2
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 13:
+Dados no cluster:
+Iris-versicolor    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 14:
+Dados no cluster:
+Iris-virginica     2
+Iris-versicolor    2
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 15:
+Dados no cluster:
+Iris-setosa    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 16:
+Dados no cluster:
+Iris-virginica    6
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 17:
+Dados no cluster:
+Iris-setosa    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 18:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 19:
+Dados no cluster:
+Iris-setosa    6
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 20:
+Dados no cluster:
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 21:
+Dados no cluster:
+Iris-setosa        8
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.19753086419753085
+
+Cluster 23:
+Dados no cluster:
+Iris-virginica     6
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.24489795918367352
+
+Cluster 22:
+Dados no cluster:
+Iris-virginica     4
+Iris-versicolor    4
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 24:
+Dados no cluster:
+Iris-versicolor    2
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 25:
+Dados no cluster:
+Iris-setosa    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 26:
+Dados no cluster:
+Iris-setosa    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Step: 4000
+Cluster 0:
+Dados no cluster:
+Iris-virginica     3
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 1:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 2:
+Dados no cluster:
+Iris-virginica     4
+Iris-versicolor    4
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 3:
+Dados no cluster:
+Iris-setosa       5
+Iris-virginica    2
+Name: class, dtype: int64
+Gini index: 0.40816326530612246
+
+Cluster 4:
+Dados no cluster:
+Iris-versicolor    3
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.375
+
+Cluster 5:
+Dados no cluster:
+Iris-setosa       6
+Iris-virginica    2
+Name: class, dtype: int64
+Gini index: 0.375
+
+Cluster 6:
+Dados no cluster:
+Iris-versicolor    5
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 7:
+Dados no cluster:
+Iris-versicolor    8
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 8:
+Dados no cluster:
+Iris-setosa        3
+Iris-virginica     3
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.6122448979591837
+
+Cluster 9:
+Dados no cluster:
+Iris-virginica    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 10:
+Dados no cluster:
+Iris-versicolor    4
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.31999999999999984
+
+Cluster 11:
+Dados no cluster:
+Iris-versicolor    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 12:
+Dados no cluster:
+Iris-virginica     2
+Iris-versicolor    2
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 13:
+Dados no cluster:
+Iris-setosa    5
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 14:
+Dados no cluster:
+Iris-virginica    6
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 15:
+Dados no cluster:
+Iris-setosa    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 16:
+Dados no cluster:
+Iris-virginica     3
+Iris-versicolor    2
+Name: class, dtype: int64
+Gini index: 0.48
+
+Cluster 17:
+Dados no cluster:
+Iris-setosa    6
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 18:
+Dados no cluster:
+Iris-setosa    8
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 19:
+Dados no cluster:
+Iris-virginica     5
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.2777777777777777
+
+Cluster 20:
+Dados no cluster:
+Iris-setosa        5
+Iris-virginica     4
+Iris-versicolor    4
+Name: class, dtype: int64
+Gini index: 0.6627218934911242
+
+Cluster 21:
+Dados no cluster:
+Iris-versicolor    2
+Iris-virginica     1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 22:
+Dados no cluster:
+Iris-setosa    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Step: 4500
+Cluster 0:
+Dados no cluster:
+Iris-virginica     3
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 1:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 2:
+Dados no cluster:
+Iris-versicolor    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 3:
+Dados no cluster:
+Iris-setosa       5
+Iris-virginica    2
+Name: class, dtype: int64
+Gini index: 0.40816326530612246
+
+Cluster 5:
+Dados no cluster:
+Iris-versicolor    3
+Iris-virginica     2
+Name: class, dtype: int64
+Gini index: 0.48
+
+Cluster 4:
+Dados no cluster:
+Iris-virginica    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 6:
+Dados no cluster:
+Iris-setosa    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 7:
+Dados no cluster:
+Iris-versicolor    5
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 8:
+Dados no cluster:
+Iris-versicolor    7
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 9:
+Dados no cluster:
+Iris-setosa        3
+Iris-virginica     3
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.6122448979591837
+
+Cluster 10:
+Dados no cluster:
+Iris-virginica    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 11:
+Dados no cluster:
+Iris-versicolor    5
+Iris-virginica     2
+Name: class, dtype: int64
+Gini index: 0.40816326530612246
+
+Cluster 12:
+Dados no cluster:
+Iris-versicolor    3
+Iris-virginica     2
+Name: class, dtype: int64
+Gini index: 0.48
+
+Cluster 13:
+Dados no cluster:
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 14:
+Dados no cluster:
+Iris-setosa    6
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 15:
+Dados no cluster:
+Iris-virginica     7
+Iris-versicolor    2
+Name: class, dtype: int64
+Gini index: 0.345679012345679
+
+Cluster 16:
+Dados no cluster:
+Iris-setosa    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 17:
+Dados no cluster:
+Iris-setosa        6
+Iris-versicolor    4
+Iris-virginica     3
+Name: class, dtype: int64
+Gini index: 0.6390532544378698
+
+Cluster 18:
+Dados no cluster:
+Iris-setosa       8
+Iris-virginica    1
+Name: class, dtype: int64
+Gini index: 0.19753086419753085
+
+Cluster 19:
+Dados no cluster:
+Iris-virginica     2
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.4444444444444444
+
+Cluster 20:
+Dados no cluster:
+Iris-setosa        5
+Iris-virginica     4
+Iris-versicolor    4
+Name: class, dtype: int64
+Gini index: 0.6627218934911242
+
+Cluster 21:
+Dados no cluster:
+Iris-virginica     4
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.31999999999999984
+
+Cluster 22:
+Dados no cluster:
+Iris-setosa    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Step: 5000
+Cluster 0:
+Dados no cluster:
+Iris-virginica     3
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.5
+
+Cluster 1:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 2:
+Dados no cluster:
+Iris-setosa       5
+Iris-virginica    2
+Name: class, dtype: int64
+Gini index: 0.40816326530612246
+
+Cluster 3:
+Dados no cluster:
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 5:
+Dados no cluster:
+Iris-versicolor    4
+Iris-virginica     3
+Name: class, dtype: int64
+Gini index: 0.48979591836734704
+
+Cluster 4:
+Dados no cluster:
+Iris-virginica    5
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 6:
+Dados no cluster:
+Iris-setosa    5
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 7:
+Dados no cluster:
+Iris-versicolor    5
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 8:
+Dados no cluster:
+Iris-versicolor    7
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 9:
+Dados no cluster:
+Iris-setosa        3
+Iris-virginica     3
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.6122448979591837
+
+Cluster 10:
+Dados no cluster:
+Iris-virginica    4
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 11:
+Dados no cluster:
+Iris-versicolor    5
+Iris-virginica     2
+Name: class, dtype: int64
+Gini index: 0.40816326530612246
+
+Cluster 12:
+Dados no cluster:
+Iris-versicolor    3
+Iris-virginica     2
+Name: class, dtype: int64
+Gini index: 0.48
+
+Cluster 13:
+Dados no cluster:
+Iris-versicolor    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 14:
+Dados no cluster:
+Iris-setosa    6
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 15:
+Dados no cluster:
+Iris-virginica     6
+Iris-versicolor    2
+Name: class, dtype: int64
+Gini index: 0.375
+
+Cluster 16:
+Dados no cluster:
+Iris-setosa    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 17:
+Dados no cluster:
+Iris-setosa        7
+Iris-versicolor    6
+Iris-virginica     3
+Name: class, dtype: int64
+Gini index: 0.6328125
+
+Cluster 18:
+Dados no cluster:
+Iris-setosa    8
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 19:
+Dados no cluster:
+Iris-virginica    3
+Name: class, dtype: int64
+Gini index: 0.0
+
+Cluster 21:
+Dados no cluster:
+Iris-virginica     4
+Iris-versicolor    1
+Name: class, dtype: int64
+Gini index: 0.31999999999999984
+
+Cluster 20:
+Dados no cluster:
+Iris-setosa        5
+Iris-virginica     5
+Iris-versicolor    5
+Name: class, dtype: int64
+Gini index: 0.6666666666666667
+
+Cluster 22:
+Dados no cluster:
+Iris-setosa    4
+Name: class, dtype: int64
+Gini index: 0.0
+

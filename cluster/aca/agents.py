@@ -5,6 +5,15 @@ from random import uniform
 import math  
 import random
 
+
+class BordaAgent(Agent):
+    unique_id = 'borda_'
+    
+    def __init__(self, unique_id, pos, model):
+        super().__init__(unique_id, model)
+        self.unique_id = unique_id
+        self.pos = pos
+
 class AntAgent(Agent):
     unique_id = 'ant_'
     
